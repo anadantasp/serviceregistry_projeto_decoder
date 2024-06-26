@@ -1,0 +1,1 @@
+# serviceregistry_projeto_decoder
